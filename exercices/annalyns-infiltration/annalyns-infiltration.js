@@ -24,10 +24,11 @@
  *
  * @param {boolean} knightIsAwake
  *
+ *
  * @return {boolean} Whether or not you can execute a fast attack.
  */
 export function canExecuteFastAttack(knightIsAwake) {
-  throw new Error('Remove this line and implement the function');
+  return;
 }
 
 /**
